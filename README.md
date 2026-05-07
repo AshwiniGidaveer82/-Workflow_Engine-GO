@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Workflow Automation Engine
 
 A lightweight Go workflow automation service that accepts workflow definitions over HTTP and kicks off a (currently stubbed) workflow execution pipeline.
@@ -99,3 +100,6 @@ Several components are currently stubs (they print to stdout) and are intended t
 ## License
 
 Add your license information here.
+=======
+# -Workflow_Engine-GO
+>>>>>>> bef4861e8a2d934c12376573951397440da11798
